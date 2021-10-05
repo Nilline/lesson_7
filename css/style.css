@@ -366,10 +366,9 @@ body {
 	color: #fff;
 }
 .top-info__image {
+	background: url('../img/info-car.jpg') center / cover no-repeat;
+	padding: 0px 0px 63.25% 0px;
 	margin: -192px 0px 0px 0px;
-}
-.top-info__image img {
-	max-width: 100%;
 }
 .info-page__bottom {
 }
@@ -387,8 +386,17 @@ body {
 	width: 76px;
 	height: 76px;
 }
-.bottom-info__image img {
-	max-width: 100%;
+.bottom-info__image_one {
+	background: url('../img/icons/info-01.svg') center / cover no-repeat;
+}
+.bottom-info__image_two {
+	background: url('../img/icons/info-02.svg') center / cover no-repeat;
+}
+.bottom-info__image_three {
+	background: url('../img/icons/info-03.svg') center / cover no-repeat;
+}
+.bottom-info__image_four {
+	background: url('../img/icons/info-04.svg') center / cover no-repeat;
 }
 .bottom-info__content {
 	display: inline-block;
