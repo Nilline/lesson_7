@@ -312,7 +312,7 @@ body {
 }
 .mainscreen-page__body {
 	max-width: 583px;
-	padding: 340px 0px 0px 0px;
+	padding: 340px 0px 50px 0px;
 }
 .mainscreen-page__title {
 	font-size: 56px;
